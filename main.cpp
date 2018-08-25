@@ -1,5 +1,3 @@
-//Assignment-4 Stack
-//Linked list
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
